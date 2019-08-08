@@ -1,0 +1,5 @@
+/HelloProjet/.idea/*.html
+*.jar
+*.class
+*.iml
+*.xml
