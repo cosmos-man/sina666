@@ -6,5 +6,6 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
         System.out.println("新增数据");
+		System.out.println("老王添加新数据");
     }
 }
