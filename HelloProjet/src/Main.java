@@ -7,5 +7,6 @@ public class Main {
         System.out.println("HelloWorld!");
         System.out.println("新增数据");
 		System.out.println("老王添加新数据");
+		System.out.println("老王添加新数据2222");
     }
 }
